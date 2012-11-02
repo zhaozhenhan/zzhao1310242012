@@ -20,7 +20,7 @@ Date: \tab 2012-11-01\cr
 License: \tab GPL-3\cr
 }
 }
-\author{Zhenhan Zhao, <zhang.huinan@gmail.com>}
+\author{Zhenhan Zhao, <zzhao13@jhu.edu>}
 \references{2012 Fall semester 550400 Homework 2 Description}
 
 \keyword{ package }
